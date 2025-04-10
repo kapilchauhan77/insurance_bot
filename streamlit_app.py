@@ -232,9 +232,9 @@ if analyze_button and folder_path_input:
                     st.session_state.latest_graph_state = event # Store latest full state
                     # Handle potential variations in event dictionary keys more safely
                     keys = list(event.keys())
-                    if keys:
+                    node_keys = [k for k in keys if k != 'error' and k!= 'messages'] # Example filter
+                    if node_keys:
                         # Attempt to get a meaningful node name, avoid just getting 'messages' if present
-                        node_keys = [k for k in keys if k != 'error' and k!= 'messages'] # Example filter
                         last_node_executed = node_keys[0] if node_keys else keys[0]
                         status.write(f"{get_user_friendly_status(last_node_executed)}")
                     else:
