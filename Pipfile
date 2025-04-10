@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langgraph = "*"
+langchain-google-vertexai = "*"
+tavily-python = "*"
+langchain = "*"
+pdf2image = "*"
+google-genai = "*"
+streamlit = "*"
+pypdf2 = "*"
+google-cloud-vision = "*"
+google-cloud-aiplatform = "*"
+vertexai = "*"
+google-cloud-discoveryengine = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

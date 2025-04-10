@@ -1,0 +1,66 @@
+General Approach & Scope:
+
+The guide aims to provide a consistent method for assessing risk in Solicitors Professional Indemnity insurance to achieve underwriting profitability.   
+Insurers must provide cover according to the Solicitors Regulation Authority (SRA) minimum terms.   
+Income assessment depends on the firm's size (partner numbers) and the type of work undertaken.   
+Inperio generally avoids underwriting sole traders without other qualified staff and large regional firms due to lower rates and potential loss frequency.   
+The maximum number of partners should generally not exceed 8, and sole practitioners must be established for at least 3 years.   
+Successor Practice:
+
+The definition is complex under SRA terms; a firm can become a successor even unintentionally.   
+Succession can occur through various means, including holding out as a successor or taking on principals from a ceased practice.   
+If succession occurred within the last 5 years, claims and work details of the predecessor practice are needed for rating.   
+Work Risk Categorization:
+
+High Risk Work: Requires significant review due to high frequency and/or severity potential. Includes:
+Commercial work for Public Companies (severity risk).   
+Commercial Conveyancing (frequency risk; decline/refer if >6 claims in 6 years).   
+Residential Conveyancing (frequency risk, consider mortgage fraud propensity; decline/refer if >6 claims in 6 years).   
+Financial advice regulated by SRA/FCA (specialized, complex claims; refer to R&Q).   
+Intellectual Property (highly specialized, large claims potential; refer to R&Q).   
+  
+Medium High Risk Work: Requires caution and assessment on merit. Includes:
+Corporate Commercial work (non-public companies).   
+Commercial Litigation (severity issues; decline/refer if >50% of fees).   
+Personal Injury Claimant (especially multi-track cases >£15,000 and clinical negligence/group litigation).   
+Landlord and Tenant (high frequency; check claims history).   
+  
+Medium Risk Work: Potential frequency issues, values often >£20,000. Includes Defendant Litigious/PI, Employment Contentious, Matrimonial, Probate/Estate Admin, Wills/Trust/Tax Planning. "Other" work exceeding 15% requires explanation or should be declined.   
+Low Risk Work: Highly desirable work. Includes Administering Oaths, Agency Advocacy, Arbitration/Adjudication/Mediation, Children/Mental Health/Welfare, Criminal Law, Debt Collection (undisputed), Employment (non-contentious), Expert Witness, Immigration, Lecturing, Offices/Appointments (specific types), Parliamentary Agency, Town/Country Planning.   
+Risk Management:
+
+Firms must have a formal risk management strategy.   
+Lexcel accreditation is highly valued, especially if held for 3+ years, indicating high management and client care standards. However, continued claims frequency despite Lexcel may indicate issues.   
+Other Law Society accreditations (e.g., Conveyancing Quality Scheme, Family Law) are positive indicators.   
+ISO9001 is another recognised quality standard.   
+Key internal procedures looked for include: complaints/claims handling, business continuity plans, diary systems (especially for time-sensitive work), email guidelines, client vetting, use of retainer letters, risk assessment per instruction, conflict checks, and regular file audits (including partners).
+Claims:
+
+Full 6-year claims history (qualifying insurer's printout) is required before quoting.   
+Claims ratio calculation involves weighting incurred claims based on recency (Y1=150%, Y2=125%, Y3/Y4=50%, Y5=35%, Y6=20%).   
+Business with a loss ratio exceeding 75% requires R&Q consent.   
+Underwriting Process & Rating:
+
+Full underwriting requires a completed proposal form, 6-year claims summaries, and any specific requested info.   
+Indicative terms can be issued on incomplete info but are non-binding until all info is received and accepted. Binding quotes are typically open for 90 days.   
+Rating uses a technical premium based on work splits, adjusted by debits (e.g., increased indemnity limit, single principal loading) and credits (e.g., size discount, claims discount).   
+Discretionary discounts (up to 20%) and loadings can be applied.   
+Premium is grossed up (max 32.5%) for commission.   
+Minimum premium is £4,000 + IPT.   
+Standard excess is 0.50% of last year's fees (min £2,500), or 0.275% (min £1,000) for low-risk work only. Maximum excess is generally 2.5% of rateable fees.   
+Referral Criteria (to R&Q):
+
+Referrals are needed for risks meeting specific criteria, including:
+Fees >£5M average over 3 years.   
+Claims Ratio >75%.   
+Principals with <3 years PQE.   
+Sole Practitioners established <5 years.   
+Overseas income >10%.   
+Commercial work for public companies or >20% Commercial Litigation.   
+Any Financial Services work.   
+IP work >£25k fees.   
+Specific M&A criteria.   
+Financial viability concerns (fees <£40k per partner).   
+Significant renewal rate reductions (>15% not due to market changes) or new referral triggers.   
+
+Sources and related content
